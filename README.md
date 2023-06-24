@@ -4,9 +4,10 @@
 
 - [X] Setting up a React project using Vite and TypeScript.
 - [X] Creating a React component.
-- [ ] Working with JSX.
-- [ ] Managing state and props in React components.
-- [ ] Handling events in React.
+- [X] Working with JSX.
+- [X] Managing state and props in React components.
+- [X] Handling events in React.
+- [X] Introducing Modularity into React Components.
 
 ## 2. Redux Integration
 
